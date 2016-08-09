@@ -1,4 +1,4 @@
-package mypackage;
+import mypackage.Singleton;
 
 /* This class initiates a new thread;
  * The method 'run' (overrided from Thread class) invokes the thread 
