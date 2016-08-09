@@ -1,5 +1,3 @@
-package mypackage;
-
 import mypackage.Singleton;
 
 /* This class contains the main method.
